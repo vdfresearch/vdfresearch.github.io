@@ -1,2 +1,3 @@
 # vdfresearch.github.io
-Website!
+
+This is the master repo for [vdfresearch.org](https://vdfresearch.org).
