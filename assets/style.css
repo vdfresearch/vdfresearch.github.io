@@ -1,8 +1,3 @@
-body {
-  /* font-family: ETBembo;
-  font-size: 1.2em; */
-}
-
 .title {
   text-align: center;
   margin-bottom: 20px;
@@ -11,6 +6,7 @@ body {
 #readinglist {
   font-size:  0.8em;
 }
+
 #main {
   margin-top: 90px;
 }
@@ -29,6 +25,15 @@ hr {
   margin-bottom: 50px;
 }
 
+h6 {
+  margin-top: -0.5rem;
+}
+
+h2 {
+  margin-top: 1rem;
+}
+
 @font-face {
   font-family: ETBembo;
-  src: url("./ETBembo-RomanLF.ttf"); }
+  src: url("./ETBembo-RomanLF.ttf");
+}
